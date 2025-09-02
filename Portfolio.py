@@ -65,7 +65,7 @@ with st.expander("📊 Blinkit-Sales Dashboard (Power BI)"):
     - Analyzed revenue trends, regional performance, and customer behavior.  
     - Helped the company identify **top-performing products**.  
     """)
-    st.image("C:/Users/LENOVO/OneDrive - IIIT Bhopal/Documents/Python/Portfolio project/Blink-it_Output.png", use_container_width=True)
+    st.image("Blink-it_Output.png", use_container_width=True)
  # Add screenshot of dashboard if available
 
 
@@ -84,3 +84,4 @@ st.write("🔗 [LinkedIn](https://www.linkedin.com/in/parth-khillare-b849bb269/)
 st.write("💻 [GitHub](https://github.com/DevilxHunter21)")
 
 st.success("Thanks for visiting my portfolio! 🚀")
+
