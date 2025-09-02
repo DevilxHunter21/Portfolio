@@ -73,7 +73,7 @@ with st.expander("📊 Blinkit-Sales Dashboard (Power BI)"):
 # RESUME SECTION
 # -----------------------------
 st.header("Resume")
-st.write("📄 [My Resume](C:/Users/LENOVO\OneDrive - IIIT Bhopal/Documents/Python/Portfolio project/Parth_Resume.pdf)")
+st.write("📄 [My Resume](Parth_Resume.pdf)")
 
 # -----------------------------
 # CONTACT SECTION
@@ -84,4 +84,5 @@ st.write("🔗 [LinkedIn](https://www.linkedin.com/in/parth-khillare-b849bb269/)
 st.write("💻 [GitHub](https://github.com/DevilxHunter21)")
 
 st.success("Thanks for visiting my portfolio! 🚀")
+
 
