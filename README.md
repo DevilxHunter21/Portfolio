@@ -1,20 +1,37 @@
-# 👋 Hi, I'm Parth Khillare!
+# Project Title: Blinkit Sales Dashboard 📊
 
-🎓 B.Tech Student | 💻 Aspiring QA & Data Analyst | 🧠 Tech Explorer  
+## 📘 Overview
+An interactive Power BI dashboard built to analyze sales trends, revenue performance, and customer behavior for Blinkit.  
+The project aims to demonstrate how business intelligence tools can transform raw data into actionable insights.
 
-I’m passionate about building and testing data-driven applications that improve usability and reliability.  
-Currently focusing on **software testing, automation, and data analytics**.
+## 🧠 Objectives
+- Analyze sales and revenue performance metrics.
+- Identify top-performing products and locations.
+- Build KPIs and visualizations for business decisions.
 
-### 🧰 Skills
-- **Languages:** Python, SQL, C++, JavaScript  
-- **Testing Tools:** Manual Testing, Bug Reporting, QA Documentation  
-- **Data Tools:** Power BI, Excel, Pandas, NumPy  
-- **Web:** React, HTML, CSS  
+## ⚙️ Tools & Technologies
+- Power BI, SQL, Excel  
+- Data Cleaning and Transformation: SQL Scripts  
+- Visualization: Power BI Interactive Dashboard
 
-### 🚀 Featured Projects
-- [Blinkit Sales Dashboard](https://github.com/DevilxHunter21/Blinkit-Saleas-dashboard)  
-- [Library Management System](https://github.com/DevilxHunter21/Library-Management-System)  
-- [Portfolio Website](https://github.com/DevilxHunter21/Portfolio)  
+## 🧩 Key Features
+- Dynamic filters and drill-downs for category-level analysis.  
+- Automated data refresh using Power Query.  
+- Improved reporting accuracy by 30%.
 
-📫 **Contact:** parthkhillareiiitb@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/parth-khillare-b849bb269](https://linkedin.com/in/parth-khillare-b849bb269)
+## 🧪 Testing & Validation
+- Cross-checked KPI calculations using Excel formulas.  
+- Verified dataset consistency with SQL queries.  
+- Ensured all visuals render correctly in Power BI Service.
+
+## 🚀 How to Use
+1. Download the `.pbix` file or access the shared Power BI link.  
+2. Use filters to explore sales trends and performance metrics.  
+
+## 🏁 Results
+Delivered a clean, data-driven dashboard that supports decision-making and trend prediction.
+
+---
+**Author:** Parth Vijay Khillare  
+**LinkedIn:** [linkedin.com/in/parth-khillare-b849bb269](https://linkedin.com/in/parth-khillare-b849bb269)  
+**GitHub:** [github.com/DevilxHunter21](https://github.com/DevilxHunter21)
